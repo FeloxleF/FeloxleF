@@ -20,6 +20,7 @@
 - Bureautique : C# (WPF) , Python, C++ (Gtkmm)
 - CI/CD : GitHub worflows, Gitlab, Jenkins, YAML
 - Environnement : Docker
+- IA : Python (Jupyter)
 
 ***
 
